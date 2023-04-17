@@ -14,3 +14,5 @@ Description
 Image  
    - Hit the provided API and read the data from it using the fetch method and create 20 objects from the retrieved data then push them to an array 
    - loop through the array using map() and create a card for each object to render in the main 
+   
+   ### [Live Demo](https://falmasri98.github.io/fakeStoreAPI/)  
