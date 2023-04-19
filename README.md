@@ -2,7 +2,7 @@
 
 ## API task
 
-- go to this link: https://fakestoreapi.com/docs 
+- go to this link: https://fakestoreapi.com/products
 Read the documentation of it to know how to use it 
 Create a repository and call it fakestoreapi
 Create index.html file with the main three tags(header, main, footer)
